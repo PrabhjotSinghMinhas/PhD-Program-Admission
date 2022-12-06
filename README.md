@@ -1,4 +1,4 @@
-# PhD-program-admission
+# PhD-Program-Admission
 Purpose:
 This project aimed to look at raw data of admission rates for six different departments for Ph.D. programs from a highly regarded University to examine gender equality and to see if there were any takeaways to be made.
 
